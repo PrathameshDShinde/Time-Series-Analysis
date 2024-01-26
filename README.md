@@ -2,7 +2,7 @@
 Analyzing a time series of data can provide insights into its performance over time, including trends, seasonality, and other patterns. Here's a general outline of steps you can take for time series analysis of Amazon:
 
 ## Data Collection: 
-Obtain historical data for Amazon's key performance metrics such as sales revenue, stock prices, number of orders, etc. This data can be collected from various sources including financial databases, stock exchanges, or directly from Amazon's financial reports.
+Obtain historical data for Amazon's,Google's and Ford's key performance metrics such as sales revenue, stock prices, number of orders, etc. This data can be collected from various sources including financial databases, stock exchanges, or directly from Amazon's,Google's and Ford's financial reports.
 
 ## Data Preprocessing: 
 Clean the data by handling missing values, removing outliers, and ensuring uniformity in the time intervals (if applicable). Convert the data into a time series format with a timestamp index.
